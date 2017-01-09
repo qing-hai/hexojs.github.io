@@ -9,20 +9,6 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/news/2014/06/14/hexo-2-7-released/</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/news/2015/03/05/hexo-3-0-released/</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/news/2015/02/27/new-documentation-and-registry/</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
@@ -37,21 +23,21 @@
   </url>
   
   <url>
+    <loc>http://hexo.mongobooster.com/news/2015/03/05/hexo-3-0-released/</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/news/2014/06/14/hexo-2-7-released/</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hexo.mongobooster.com/index.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/api/box.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/api/deployer.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -65,7 +51,21 @@
   </url>
   
   <url>
+    <loc>http://hexo.mongobooster.com/api/box.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hexo.mongobooster.com/api/events.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/api/deployer.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -86,14 +86,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/api/index.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/api/helper.html</loc>
+    <loc>http://hexo.mongobooster.com/api/migrator.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -107,7 +100,14 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/api/migrator.html</loc>
+    <loc>http://hexo.mongobooster.com/api/index.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/api/helper.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -135,21 +135,21 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/api/router.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/api/scaffolds.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/api/rendering.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/api/themes.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/api/router.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -163,14 +163,14 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/docs/asset-folders.html</loc>
+    <loc>http://hexo.mongobooster.com/api/scaffolds.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/api/themes.html</loc>
+    <loc>http://hexo.mongobooster.com/docs/asset-folders.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -198,13 +198,6 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/docs/contributing.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/docs/data-files.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
@@ -212,21 +205,14 @@
   </url>
   
   <url>
+    <loc>http://hexo.mongobooster.com/docs/contributing.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hexo.mongobooster.com/docs/front-matter.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/docs/generating.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/docs/helpers.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -247,14 +233,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/docs/migration.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/docs/server.html</loc>
+    <loc>http://hexo.mongobooster.com/docs/helpers.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -268,7 +247,28 @@
   </url>
   
   <url>
+    <loc>http://hexo.mongobooster.com/docs/migration.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hexo.mongobooster.com/docs/permalinks.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/docs/server.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/docs/tag-plugins.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -282,13 +282,6 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/docs/templates.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/docs/themes.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
@@ -296,7 +289,14 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/docs/tag-plugins.html</loc>
+    <loc>http://hexo.mongobooster.com/docs/templates.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/docs/writing.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -311,13 +311,6 @@
   
   <url>
     <loc>http://hexo.mongobooster.com/docs/variables.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/docs/writing.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -359,14 +352,14 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/index.html</loc>
+    <loc>http://hexo.mongobooster.com/docs/generating.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ko/api/box.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-tw/index.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -408,6 +401,13 @@
   </url>
   
   <url>
+    <loc>http://hexo.mongobooster.com/ko/api/locals.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hexo.mongobooster.com/ko/api/helper.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
@@ -416,13 +416,6 @@
   
   <url>
     <loc>http://hexo.mongobooster.com/ko/api/index.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/ko/api/locals.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -471,13 +464,6 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ko/api/scaffolds.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/ko/api/tag.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
@@ -485,7 +471,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ko/docs/asset-folders.html</loc>
+    <loc>http://hexo.mongobooster.com/ko/api/scaffolds.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -493,6 +479,13 @@
   
   <url>
     <loc>http://hexo.mongobooster.com/ko/api/themes.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/ko/docs/asset-folders.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -507,13 +500,6 @@
   
   <url>
     <loc>http://hexo.mongobooster.com/ko/docs/configuration.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/ko/docs/data-files.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -541,7 +527,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ko/docs/helpers.html</loc>
+    <loc>http://hexo.mongobooster.com/ko/docs/data-files.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -555,13 +541,6 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ko/docs/index.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/ko/docs/internationalization.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
@@ -569,7 +548,14 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ko/docs/permalinks.html</loc>
+    <loc>http://hexo.mongobooster.com/ko/docs/helpers.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/ko/docs/index.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -583,7 +569,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ko/docs/plugins.html</loc>
+    <loc>http://hexo.mongobooster.com/ko/docs/permalinks.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -597,7 +583,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ko/docs/tag-plugins.html</loc>
+    <loc>http://hexo.mongobooster.com/ko/docs/plugins.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -611,14 +597,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ko/docs/templates.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/ko/docs/themes.html</loc>
+    <loc>http://hexo.mongobooster.com/ko/docs/tag-plugins.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -639,7 +618,28 @@
   </url>
   
   <url>
+    <loc>http://hexo.mongobooster.com/ko/docs/templates.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/ko/docs/themes.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hexo.mongobooster.com/ko/docs/writing.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/ko/api/box.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -681,14 +681,14 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ru/api/helper.html</loc>
+    <loc>http://hexo.mongobooster.com/ru/api/generator.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ru/api/generator.html</loc>
+    <loc>http://hexo.mongobooster.com/ru/api/helper.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -709,13 +709,6 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ru/api/posts.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/ru/api/migrator.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
@@ -723,7 +716,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ru/api/processor.html</loc>
+    <loc>http://hexo.mongobooster.com/ru/api/posts.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -744,21 +737,14 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/news/2014/07/13/hexo-2-8-released/</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/ru/api/tag.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/ru/api/scaffolds.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/news/2014/07/13/hexo-2-8-released/</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -773,6 +759,13 @@
   
   <url>
     <loc>http://hexo.mongobooster.com/ru/docs/asset-folders.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/ru/api/tag.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -870,13 +863,6 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ru/docs/server.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/ru/docs/setup.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
@@ -884,7 +870,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ru/docs/templates.html</loc>
+    <loc>http://hexo.mongobooster.com/ru/docs/server.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -898,7 +884,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ru/docs/themes.html</loc>
+    <loc>http://hexo.mongobooster.com/ru/docs/templates.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -912,7 +898,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/ru/docs/writing.html</loc>
+    <loc>http://hexo.mongobooster.com/ru/docs/themes.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -920,6 +906,13 @@
   
   <url>
     <loc>http://hexo.mongobooster.com/ru/docs/variables.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/ru/docs/writing.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -982,13 +975,6 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-cn/api/migrator.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/zh-cn/api/locals.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
@@ -996,7 +982,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-cn/api/posts.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-cn/api/migrator.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1010,6 +996,13 @@
   </url>
   
   <url>
+    <loc>http://hexo.mongobooster.com/zh-cn/api/posts.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hexo.mongobooster.com/zh-cn/api/rendering.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
@@ -1017,7 +1010,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-cn/api/router.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-cn/api/renderer.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1031,14 +1024,14 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-cn/api/tag.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-cn/api/router.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-cn/api/renderer.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-cn/api/tag.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1066,13 +1059,6 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-cn/docs/asset-folders.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/zh-cn/docs/contributing.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
@@ -1087,6 +1073,13 @@
   </url>
   
   <url>
+    <loc>http://hexo.mongobooster.com/zh-cn/docs/asset-folders.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hexo.mongobooster.com/zh-cn/docs/front-matter.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
@@ -1094,7 +1087,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-cn/docs/deployment.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-cn/docs/helpers.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1115,14 +1108,14 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-cn/docs/internationalization.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-cn/docs/permalinks.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-cn/docs/helpers.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-cn/docs/internationalization.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1136,7 +1129,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-cn/docs/permalinks.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-cn/docs/plugins.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1150,7 +1143,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-cn/docs/plugins.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-cn/docs/tag-plugins.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1164,28 +1157,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-cn/docs/tag-plugins.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/zh-cn/docs/templates.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/zh-cn/docs/variables.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/zh-cn/docs/troubleshooting.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1206,6 +1178,27 @@
   </url>
   
   <url>
+    <loc>http://hexo.mongobooster.com/zh-cn/docs/troubleshooting.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/zh-cn/docs/variables.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/zh-tw/api/console.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hexo.mongobooster.com/zh-tw/api/box.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
@@ -1214,13 +1207,6 @@
   
   <url>
     <loc>http://hexo.mongobooster.com/zh-tw/api/deployer.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/api/console.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1241,14 +1227,14 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/api/helper.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-tw/api/generator.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/api/generator.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-tw/api/helper.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1262,21 +1248,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/api/posts.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/zh-tw/api/locals.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/api/processor.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1290,7 +1262,28 @@
   </url>
   
   <url>
+    <loc>http://hexo.mongobooster.com/zh-tw/api/posts.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/zh-tw/api/processor.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hexo.mongobooster.com/zh-tw/api/renderer.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/zh-tw/api/tag.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1318,21 +1311,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/docs/asset-folders.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/zh-tw/api/themes.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/api/tag.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1346,7 +1325,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/docs/data-files.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-tw/docs/asset-folders.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1374,14 +1353,14 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/docs/front-matter.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-tw/docs/data-files.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/docs/helpers.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-tw/docs/front-matter.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1402,7 +1381,21 @@
   </url>
   
   <url>
+    <loc>http://hexo.mongobooster.com/zh-tw/docs/helpers.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hexo.mongobooster.com/zh-tw/docs/migration.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/zh-tw/docs/plugins.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1423,21 +1416,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/docs/plugins.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/zh-tw/docs/setup.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/docs/server.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1451,7 +1430,7 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/docs/templates.html</loc>
+    <loc>http://hexo.mongobooster.com/zh-tw/docs/troubleshooting.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
@@ -1465,13 +1444,6 @@
   </url>
   
   <url>
-    <loc>http://hexo.mongobooster.com/zh-tw/docs/troubleshooting.html</loc>
-    
-    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://hexo.mongobooster.com/zh-tw/docs/themes.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
@@ -1479,7 +1451,35 @@
   </url>
   
   <url>
+    <loc>http://hexo.mongobooster.com/zh-tw/docs/templates.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://hexo.mongobooster.com/zh-tw/docs/writing.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/zh-cn/docs/deployment.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/ru/api/processor.html</loc>
+    
+    <lastmod>2017-01-09T01:29:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://hexo.mongobooster.com/zh-tw/docs/server.html</loc>
     
     <lastmod>2017-01-09T01:29:58.000Z</lastmod>
     
