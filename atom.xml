@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   <subtitle>A fast, simple &amp; powerful blog framework powered by Node.js.</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/hexojs.github.io/atom.xml" rel="self"/>
   
-  <link href="https://hexo.io/"/>
+  <link href="https://qing-hai.github.io/hexojs.github.io/"/>
   <updated>2017-01-09T01:29:58.000Z</updated>
-  <id>https://hexo.io/</id>
+  <id>https://qing-hai.github.io/hexojs.github.io/</id>
   
   <author>
     <name>Tommy Chen</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hexo 3.2 Released</title>
-    <link href="https://hexo.io/news/2016/02/28/hexo-3-2-released/"/>
-    <id>https://hexo.io/news/2016/02/28/hexo-3-2-released/</id>
+    <link href="https://qing-hai.github.io/hexojs.github.io/news/2016/02/28/hexo-3-2-released/"/>
+    <id>https://qing-hai.github.io/hexojs.github.io/news/2016/02/28/hexo-3-2-released/</id>
     <published>2016-02-28T00:00:00.000Z</published>
     <updated>2017-01-09T01:29:58.000Z</updated>
     
@@ -98,8 +98,8 @@
   
   <entry>
     <title>Hexo 3.0 Released</title>
-    <link href="https://hexo.io/news/2015/03/05/hexo-3-0-released/"/>
-    <id>https://hexo.io/news/2015/03/05/hexo-3-0-released/</id>
+    <link href="https://qing-hai.github.io/hexojs.github.io/news/2015/03/05/hexo-3-0-released/"/>
+    <id>https://qing-hai.github.io/hexojs.github.io/news/2015/03/05/hexo-3-0-released/</id>
     <published>2015-03-05T00:00:00.000Z</published>
     <updated>2017-01-09T01:29:58.000Z</updated>
     
@@ -144,8 +144,8 @@
   
   <entry>
     <title>New Documentation and Registry</title>
-    <link href="https://hexo.io/news/2015/02/27/new-documentation-and-registry/"/>
-    <id>https://hexo.io/news/2015/02/27/new-documentation-and-registry/</id>
+    <link href="https://qing-hai.github.io/hexojs.github.io/news/2015/02/27/new-documentation-and-registry/"/>
+    <id>https://qing-hai.github.io/hexojs.github.io/news/2015/02/27/new-documentation-and-registry/</id>
     <published>2015-02-27T00:00:00.000Z</published>
     <updated>2017-01-09T01:29:58.000Z</updated>
     
@@ -171,15 +171,15 @@
   
   <entry>
     <title>Hexo 2.8 Released</title>
-    <link href="https://hexo.io/news/2014/07/13/hexo-2-8-released/"/>
-    <id>https://hexo.io/news/2014/07/13/hexo-2-8-released/</id>
+    <link href="https://qing-hai.github.io/hexojs.github.io/news/2014/07/13/hexo-2-8-released/"/>
+    <id>https://qing-hai.github.io/hexojs.github.io/news/2014/07/13/hexo-2-8-released/</id>
     <published>2014-07-13T00:00:00.000Z</published>
     <updated>2017-01-09T01:29:58.000Z</updated>
     
     <content type="html"><![CDATA[<p>Hexo 2.8 was rewritten, brings you better performance and many improvements. The following is the highlights in this version. You can check <a href="https://github.com/hexojs/hexo/releases/tag/2.8.0" target="_blank" rel="external">detail</a> on GitHub.</p>
 <h2 id="Faster-Processing-Speed"><a href="#Faster-Processing-Speed" class="headerlink" title="Faster Processing Speed"></a>Faster Processing Speed</h2><p>Before Hexo 2.8, all source files have to be processed each time you use Hexo. In Hexo 2.8, the entire database will be saved to <code>db.json</code> so Hexo don’t have to process all files again. Also, a new data type “<strong>skip</strong>“ was added for processors to detect whether a file was changed or not.</p>
 <p>Generating was also changed in Hexo 2.8. You can check the elapsed time of each file in console now. However, I found multi-process generating didn’t affect generating speed a lot. Thus, <code>multi_thread</code> and <code>max_open_file</code> setting are deprecated in Hexo 2.8.</p>
-<img src="/news/2014/07/13/hexo-2-8-released/generate-console.png" alt="generate-console.png" title="">
+<img src="/hexojs.github.io/news/2014/07/13/hexo-2-8-released/generate-console.png" alt="generate-console.png" title="">
 <h2 id="Draft-Publish"><a href="#Draft-Publish" class="headerlink" title="Draft Publish"></a>Draft Publish</h2><p>You don’t have to enter full file name to publish a post anymore. Draft publish system is rewritten in Hexo 2.8. <code>new_post_name</code> setting will be applied until drafts are published. Besides, you can choose which layout to apply when publishing.</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><div class="line">$ hexo publish [layout] &lt;filename&gt;</div></pre></td></tr></table></figure>
 <p>A new API <code>post.publish</code> was added to help you publish drafts more easily.</p>
@@ -206,8 +206,8 @@
   
   <entry>
     <title>Hexo 2.7 Released</title>
-    <link href="https://hexo.io/news/2014/06/14/hexo-2-7-released/"/>
-    <id>https://hexo.io/news/2014/06/14/hexo-2-7-released/</id>
+    <link href="https://qing-hai.github.io/hexojs.github.io/news/2014/06/14/hexo-2-7-released/"/>
+    <id>https://qing-hai.github.io/hexojs.github.io/news/2014/06/14/hexo-2-7-released/</id>
     <published>2014-06-14T00:00:00.000Z</published>
     <updated>2017-01-09T01:29:58.000Z</updated>
     
